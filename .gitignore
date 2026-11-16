@@ -1,0 +1,13 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuration locale
+.env
+.env.*
+!.env.example
+
+# Fichiers temporaires
+*.log
+*.tmp
